@@ -1,0 +1,5 @@
+Gray Red Left
+Red White Left
+White Black Up
+Black White Right
+White Red Right
